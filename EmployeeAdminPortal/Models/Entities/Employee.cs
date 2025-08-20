@@ -1,5 +1,6 @@
 ﻿namespace EmployeeAdminPortal.Models.Entities
 {
+    //CHANGES MADE BY ARAVIND GANGINENI
     public class Employee
     {
         public Guid Id { get; set; }

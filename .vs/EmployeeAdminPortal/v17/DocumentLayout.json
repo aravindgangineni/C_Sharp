@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\GANGINENI ARAVIND\\OneDrive\\Desktop\\C_Sharp\\EmployeeAdminPortal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B326EED-FC44-4F43-8B57-80E264AF5F3C}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\gangineni aravind\\onedrive\\desktop\\c_sharp\\employeeadminportal\\employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B326EED-FC44-4F43-8B57-80E264AF5F3C}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B326EED-FC44-4F43-8B57-80E264AF5F3C}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|c:\\users\\gangineni aravind\\onedrive\\desktop\\c_sharp\\employeeadminportal\\employeeadminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B326EED-FC44-4F43-8B57-80E264AF5F3C}|EmployeeAdminPortal\\EmployeeAdminPortal.csproj|solutionrelative:employeeadminportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\GANGINENI ARAVIND\\OneDrive\\Desktop\\C_Sharp\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\GANGINENI ARAVIND\\OneDrive\\Desktop\\C_Sharp\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAdminPortal\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:38:17.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AddEmployeeDto.cs",
               "DocumentMoniker": "C:\\Users\\GANGINENI ARAVIND\\OneDrive\\Desktop\\C_Sharp\\EmployeeAdminPortal\\EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
               "RelativeDocumentMoniker": "EmployeeAdminPortal\\Models\\AddEmployeeDto.cs",
@@ -34,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\GANGINENI ARAVIND\\OneDrive\\Desktop\\C_Sharp\\EmployeeAdminPortal\\EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeeAdminPortal\\Controllers\\EmployeeController.cs",
